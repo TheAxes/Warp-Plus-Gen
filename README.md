@@ -3,11 +3,11 @@ Generate As Many GBS Of Warps You Want For free
 
 
 # How To Use?
-[x] open 1.1.1.1 app
-[x] click three lines ( top right )
-[x] click advanced
-[x] click Diagnostics
-[x] Now Copy User Id, Which Is Provided Under Client Configuration
+- [x] open 1.1.1.1 app
+- [x] click three lines ( top right )
+- [x] click advanced
+- [x] click Diagnostics
+- [x] Now Copy User Id, Which Is Provided Under Client Configuration
 
 Now clone the repository
 ```
